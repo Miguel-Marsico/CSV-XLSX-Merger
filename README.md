@@ -57,7 +57,7 @@ O CSV/XLSX Merger resolve isso com poucos cliques: une, limpa, transforma e expo
 1 - Navegue até o diretório onde deseja criar o ambiente virtual:
 
 ```bash
- cd /path/to/your/project
+ cd/path/to/your/project
 ```
 
 2 - Crie um ambiente virtual:
