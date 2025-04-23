@@ -7,6 +7,7 @@
 <div>
  • <a href="#-sobre">Sobre</a> </br>
  • <a href="#-funcionalidades">Funcionalidades</a> </br>
+ • <a href="#-download">Download</a> </br>
  • <a href="#-ferramentas">Ferramentas</a> </br>
  • <a href="#-como-executar-o-projeto">Como executar o projeto</a> </br>   
  • <a href="#-licença">Licença</a></br>
@@ -35,6 +36,15 @@ O CSV/XLSX Merger resolve isso com poucos cliques: une, limpa, transforma e expo
   <img src="https://github.com/user-attachments/assets/469885e1-a76d-420a-b257-23167954fe65" alt="Tela de configuração" width="48%" />
   <img src="https://github.com/user-attachments/assets/8a36a07c-e857-4139-b1ed-c2b00e33102a" alt="Pré-visualização" width="48%" />
 </div>
+
+## 📦 Download
+
+A versão compilada do aplicativo está disponível para Windows:
+
+👉 **[Baixar Executável](https://github.com/Miguel-Marsico/CSV-XLSX-Merger/releases/latest)**
+
+> O instalador está disponível na seção [**Releases**](https://github.com/Miguel-Marsico/CSV-XLSX-Merger/releases).  
+> Não é necessário ter Python instalado — é só baixar e executar.
 
 ## 🔧 Ferramentas
 
