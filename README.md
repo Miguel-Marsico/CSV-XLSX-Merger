@@ -18,8 +18,6 @@
 **Quem nunca precisou juntar planilhas espalhadas e acabou se perdendo no Ctrl+C e Ctrl+V?**  
 O CSV/XLSX Merger resolve isso com poucos cliques: une, limpa, transforma e exporta seus dados de forma rápida e sem dor de cabeça.
 
-**Veja funcionando na prática no [Youtube](https://pandas.pydata.org/)**
-
 ## ✨ Funcionalidades
 
 - Unifica diversos arquivos `.csv` e `.xlsx` automaticamente.
